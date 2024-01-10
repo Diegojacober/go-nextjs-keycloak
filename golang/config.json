@@ -1,0 +1,13 @@
+{
+    "ListenIP": "127.0.0.1",
+    "ListenPort": "3005",
+    "KeyCloak": {
+        "Realm": "my-demo",
+        "BaseUrl": "http://localhost:8181",
+        "RestApi": {
+            "ClientId": "demo-backend",
+            "ClientSecret": "KhTSJRSXvuQTOG7z2lK6JRltmqxRYRmu"
+        },
+        "RealmRS256PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq7pEC/vVXZfHq7mkUcNxccpP9TuHUD/EDELuav+dwOhVK+YsY+cIO/VibxsrPLdkYdmdWz7tIM0zmmwfVukwi84vIbD4kW73uahRYIvqQxpTTVUue6M/jM4DZNSffxchunDeWDoLXNKuVDEnBlIDq6ZqIukPOka9CxPYZKNZZCYPY/nhj1wiocYs7QaaJXEA6UIe08K8jNMCUWfwqwv0FS1bx7bqTVaJn8AZtDCdN0iot9GQlG3znWynhQAcRb5JiC0FRj8EmD/VuzmHYVB5/cmMTbkvJ17QUhB79PVtFzjQQvZ03kWrq6KMFDj8OIyNurE2m4iQdl5vxEfbIe0kowIDAQAB"
+    }
+}
